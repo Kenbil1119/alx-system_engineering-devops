@@ -1,1 +1,0 @@
-ls -la . -la .. -la ../.. -la ../../boot 11-lists
