@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la --sort=time ./ ../ /boot
+ls -lat --sort=time ./ ../ /boot/
