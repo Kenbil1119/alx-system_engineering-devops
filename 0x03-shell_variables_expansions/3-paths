@@ -1,2 +1,2 @@
 #/bin/bash
-wc -l $(ls -d /alx-system_engineering-devops)
+wc -l $(ls -d PATH)
